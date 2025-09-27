@@ -1,0 +1,34 @@
+Git >> Version control
+
+v1
+v2
+v3
+new v4
+
+
+>> It is ditributed on cloud
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+Github
+BitBucket
+GitLabs
+GitPod
+
+>> For 1st time
+git config --global user.name "himalay1506"
+git config --global user.email "nshimalayghosh01@gmail.com"
+git config --global color.ui auto
+
+Mandatory Commands:
+>> git init
+>> git remote add origin https://github.com/himalay1506/1st-Git-Demo.git
+
+
+git pull origin main
+
+git status
+
+
+
